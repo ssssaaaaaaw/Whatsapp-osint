@@ -1,0 +1,15 @@
+Es para ver el tiempo de whatsapp de una persona
+
+Pasos para utilizar
+
+1. abrir el cmd en esta carpeta
+
+2. escribir whatsappbeacon.py --username "N" --language "en"
+
+3. escanear el codigo QR de whatsapp
+
+4. Preciona entern el cmd
+
+5. Listo
+
+NOTA: si sale error disque "Current browser version is 112.0.5615.49" puedes actualizar el chromedriver a la misma vercion de tu chrome.
